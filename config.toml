@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://uihealthcare.org/cosmeticsurgery"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "University of Iowa Health Care Cosmetic Surgery"
 theme = "ananke"
