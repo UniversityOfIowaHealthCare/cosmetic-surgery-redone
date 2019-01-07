@@ -1,4 +1,4 @@
-# University of Iowa Healthcare - Cosmetic Surgery
+# University of Iowa Health Care - Cosmetic Surgery
 
 ## Cloning
 1) Run the usual `git clone git@github.com:UniversityOfIowaHealthCare/cosmetic-surgery-redone.git` command
