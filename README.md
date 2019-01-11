@@ -17,7 +17,7 @@ This section serves as an outline for how to add code to this repo. It's a fairl
 * We use rebasing to keep feature branches up to date
 * We squash commits when we merge PRs
 * Approval from at least one reviewer is required before a PR can be merged
-* **Always feel free to ask any questions you have or to challenge this process if you have ideas to imrpove it**
+* **Always feel free to ask any questions you have or to challenge this process if you have ideas to improve it**
 
 
 ### In-depth & step-by-step:
